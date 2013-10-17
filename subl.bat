@@ -1,0 +1,1 @@
+start G:\my software\Sublime Text\sublime_text.exe %*
